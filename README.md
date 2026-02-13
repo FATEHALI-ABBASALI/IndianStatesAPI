@@ -59,16 +59,13 @@ https://indianstatesapi-production.up.railway.app/api/states
 
 <p><strong>1️⃣ Dropdown Open – State List (Dark Theme)</strong></p>
 <p>
-  <img src="./Screenshots/state-dropdown-open.png"
-       alt="Indian States Dropdown Open"
-       width="700" />
+ <img src="./IndiaStatesAPI/Screenshots/state-dropdown-open.png" width="700" />
+
 </p>
 
 <p><strong>2️⃣ Selected State – Clean UI View</strong></p>
 <p>
-  <img src="./Screenshots/state-selected.png"
-       alt="Indian States Dropdown Selected"
-       width="700" />
+ <img src="./IndiaStatesAPI/Screenshots/state-selected.png" width="700" />
 </p>
 <hr />
 
