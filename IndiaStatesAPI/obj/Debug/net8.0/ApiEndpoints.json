@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "IndiaStatesAPI.Controllers.StatesController",
+    "Method": "GetStates",
+    "RelativePath": "api/States",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

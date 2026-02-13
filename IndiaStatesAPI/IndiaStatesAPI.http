@@ -1,0 +1,6 @@
+@IndiaStatesAPI_HostAddress = http://localhost:5058
+
+GET {{IndiaStatesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
